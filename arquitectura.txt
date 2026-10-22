@@ -1,0 +1,24 @@
+/PlataformaMultimodalInteligente
+|
+|-- README.md
+|-- docs/
+|   |
+|   |-- SRC/
+|   |    |-- pdf
+|   |    |-- drawio
+|   |
+|   |-- administracion/
+|   |-- estimacion
+|   
+|--diagramas/  
+|   |-- casos_uso.png
+|   |-- secuencia.png
+|   |-- comunicacion.png
+|   |-- clases.png
+|   |-- estados.png
+|   |-- actividades.png
+|   |-- despligue.png
+|
+|   |-- src
+|   |   |-- tools.py
+|   |   |-- script.py
